@@ -1,0 +1,21 @@
+{
+  "name": "vr",
+  "version": "0.0.0",
+  "authors": [
+    "Tim Nunamaker <tim.nunamaker@bazaarvoice.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0"
+  }
+}
